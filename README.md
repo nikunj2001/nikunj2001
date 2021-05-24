@@ -33,6 +33,7 @@
 <img align="left" alt="codeSTACKr | SCSS" width="22px" src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" />
 <img align="left" alt="codeSTACKr | NODE" width="22px" src="https://image.shutterstock.com/image-vector/node-vector-logo-backend-programming-260nw-1597753591.jpg" />
 <img align="left" alt="codeSTACKr | NODE" width="22px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" />
+<img align="left" alt="codeSTACKr | NODE" width="22px" src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" />
 
 
 
